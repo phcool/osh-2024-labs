@@ -1,4 +1,5 @@
 文件结构中，bzImage文件位于linux-6.8.1/arch/x86_64/boot/bzImage
+大小为3MB
 
 phase2中的测试，打包为了initrd.cpio.gz，可以直接在lab1目录下输入命令
 
