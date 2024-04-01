@@ -1,0 +1,36 @@
+!<thin>
+//                                              218       `
+init.o/
+init_64.o/
+fault.o/
+ioremap.o/
+extable.o/
+mmap.o/
+pgtable.o/
+physaddr.o/
+tlb.o/
+cpu_entry_area.o/
+maccess.o/
+pgprot.o/
+pat/set_memory.o/
+pat/memtype.o/
+pat/memtype_interval.o/
+hugetlbpage.o/
+dump_pagetables.o/
+/0              0           0     0     644     22624     `
+/8              0           0     0     644     51248     `
+/19             0           0     0     644     23864     `
+/28             0           0     0     644     16880     `
+/39             0           0     0     644     10504     `
+/50             0           0     0     644     6744      `
+/58             0           0     0     644     14176     `
+/69             0           0     0     644     4000      `
+/81             0           0     0     644     22888     `
+/88             0           0     0     644     44616     `
+/106            0           0     0     644     1760      `
+/117            0           0     0     644     2256      `
+/127            0           0     0     644     50832     `
+/145            0           0     0     644     28440     `
+/160            0           0     0     644     7512      `
+/184            0           0     0     644     4136      `
+/199            0           0     0     644     13320     `
