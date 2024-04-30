@@ -1,7 +1,7 @@
-CC=g++
+CC=gcc
 CFLAGS=-c -Wall
-SOURCES=shell.cpp
-OBJECTS=$(SOURCES:.cpp=.o)
+SOURCES=shell.c
+OBJECTS=$(SOURCES:.c=.o)
 EXECUTABLE=shell
 
 all: $(SOURCES) $(EXECUTABLE)
